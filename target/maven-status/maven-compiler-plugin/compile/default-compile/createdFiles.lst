@@ -1,0 +1,4 @@
+com\edarkea\framework\ReportUtil.class
+com\edarkea\example\ExampleReport.class
+com\edarkea\main\EJasperReportFramework.class
+com\edarkea\example\FrameworkModel.class
