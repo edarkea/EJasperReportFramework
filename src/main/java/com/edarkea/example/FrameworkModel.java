@@ -9,7 +9,7 @@ public class FrameworkModel {
 
     private String frm_framework_name;
     private String frm_framework_version;
-    private Integer frm_framework_download;
+    private int frm_framework_download;
 
     public FrameworkModel() {
     }
@@ -36,11 +36,11 @@ public class FrameworkModel {
         this.frm_framework_version = frm_framework_version;
     }
 
-    public Integer getFrm_framework_download() {
+    public int getFrm_framework_download() {
         return frm_framework_download;
     }
 
-    public void setFrm_framework_download(Integer frm_framework_download) {
+    public void setFrm_framework_download(int frm_framework_download) {
         this.frm_framework_download = frm_framework_download;
     }
 
